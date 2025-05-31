@@ -1,0 +1,40 @@
+
+{
+"items": [
+{
+"title": "Il maresciallo rocca",
+"url": "https://rentry.co/53nv6ock/raw",
+"isSerieTv": true
+},
+{
+"title": "La famiglia Adams",
+"url": "https://example.com/urldellaserie2",
+"isSerieTv": true
+},
+{
+"title": "Snorky",
+"url": "https://rentry.co/hnpvxi5y/raw",
+"isSerieTv": true
+},
+{
+"title": "Tartarughe ninja (1987)",
+"url": "https://rentry.co/qc9wmeck/raw",
+"isSerieTv": true
+},
+{
+"title": "Transformers prime",
+"url": "https://rentry.co/oh2idk2w/raw",
+"isSerieTv": true
+},
+{
+"title": "Power rangers ninja steel",
+"url": "https://rentry.co/gfdgitn7/raw",
+"isSerieTv": true
+},
+{
+"title": "Batman Animated Series",
+"url": "https://rentry.co/d2mcrwv4/raw",
+"isSerieTv": true
+}
+]
+}
